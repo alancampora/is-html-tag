@@ -27,7 +27,7 @@ Function to check whether tag is a proper html tag or not.
 
 ## Authors
 
-* **Alan Campora** - [Alan Campora](https://github.com/alancampora)
+* **Alan Campora** - [github](https://github.com/alancampora) - [twitter](https://twitter.com/alancampora) 
 
 ## License
 
