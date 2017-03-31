@@ -1,6 +1,12 @@
 # is-html-tag
 Function to check whether tag is a proper html tag
 
+## Setup
+
+```
+    npm install is-html-tag --save
+```
+
 ## How to use it
 
 ```javascript
