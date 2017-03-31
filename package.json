@@ -1,7 +1,7 @@
 {
   "name": "is-html-tag",
   "version": "1.2.0",
-  "description": "Check if the tag is a valid html tag",
+  "description": "Check whether the tag is a valid html tag or not",
   "main": "src/is-html-tag.js",
   "scripts": {
     "test": "nyc jasmine-node --verbose --captureExceptions test",
