@@ -10,10 +10,12 @@ Function to check whether tag is a proper html tag or not.
 ## How to use it
 
 ```javascript
-    var isHTMLTag = require('is-html-tag'); 
+    const isHTMLTag = require('is-html-tag'), 
+          myTag = "div";
     
     // your beautiful code
-    if(isHTMLTag('div'){
+
+    if(isHTMLTag(myTag){
         // whatever you want to do with your html tag 
     } else {
         // whatever you want to do with your non html tag
@@ -24,10 +26,6 @@ Function to check whether tag is a proper html tag or not.
 ## Built With
 
 * [html-tags](https://www.npmjs.com/package/html-tags) 
-
-## Authors
-
-* **Alan Campora** - [github](https://github.com/alancampora) - [twitter](https://twitter.com/alancampora) 
 
 ## License
 
