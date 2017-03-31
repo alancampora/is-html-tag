@@ -2,7 +2,7 @@
   "name": "is-html-tag",
   "version": "1.0.0",
   "description": "Check if the tag is a valid html tag",
-  "main": "index.js",
+  "main": "src/is-html-tag.js",
   "scripts": {
     "test": "nyc jasmine-node --verbose --captureExceptions test",
     "test:watch": "npm test && onchange lib/*.js test/* -- npm test",
