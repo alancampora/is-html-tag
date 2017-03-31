@@ -1,6 +1,6 @@
 {
   "name": "is-html-tag",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check if the tag is a valid html tag",
   "main": "src/is-html-tag.js",
   "scripts": {
